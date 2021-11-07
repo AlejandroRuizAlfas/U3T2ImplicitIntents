@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         etLocation = findViewById(R.id.etLocation);
         etText = findViewById(R.id.etText);
         etZoom = findViewById(R.id.et_zoom);
-        etZoom.setHint("Zoom...");
+//        etZoom.setHint("Zoom...");
 
         btOpenUri = findViewById(R.id.btOpenUri);
         btOpenLocation = findViewById(R.id.btOpenLocation);

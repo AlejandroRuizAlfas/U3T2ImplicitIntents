@@ -10,7 +10,7 @@
     <string name="et_text">This is the text I wanna share</string>
     <string name="bt_share_text">Share this text</string>
 
-    <string name="et_zoom"></string>
+    <string name="et_zoom">1</string>
 
     <string name="btmoreIntents">More Intents</string>
 
