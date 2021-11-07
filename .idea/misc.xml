@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/aruiz/AndroidStudioProjects/U3T2ImplicitIntents/app/src/main/res/layout-land/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/aruiz/AndroidStudioProjects/U3T2ImplicitIntents/app/src/main/res/layout/activity_intents_receiver.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aruiz/AndroidStudioProjects/U3T2ImplicitIntents/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/aruiz/AndroidStudioProjects/U3T2ImplicitIntents/app_ejercicios/intentsreciever/src/main/res/layout/activity_intents_reciever.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/aruiz/AndroidStudioProjects/U3T2ImplicitIntents/app_ejercicios/src/main/res/layout-land/activity_main.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/aruiz/AndroidStudioProjects/U3T2ImplicitIntents/app_ejercicios/src/main/res/layout-land/activity_more_intents.xml" value="0.5" />
+        <entry key="..\:/Users/aruiz/AndroidStudioProjects/U3T2ImplicitIntents/app_ejercicios/src/main/res/layout/activity_intents_reciever.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/aruiz/AndroidStudioProjects/U3T2ImplicitIntents/app_ejercicios/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/aruiz/AndroidStudioProjects/U3T2ImplicitIntents/app_ejercicios/src/main/res/layout/activity_more_intents.xml" value="0.33" />
+        <entry key="..\:/Users/aruiz/AndroidStudioProjects/U3T2ImplicitIntents/intentsreciever/src/main/res/layout/activity_intents_reciever.xml" value="0.33" />
+        <entry key="..\:/Users/aruiz/AndroidStudioProjects/U3T2ImplicitIntents/intentsreciever2/src/main/res/layout/activity_intents_reciever.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

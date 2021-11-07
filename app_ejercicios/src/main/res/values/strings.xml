@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">U3T2ImplicitIntents</string>
+
+    <string name="et_uri">https://developer.android.com</string>
+    <string name="bt_open_uri">Open Website</string>
+
+    <string name="et_location">Pont Fernando Reig Alcoi</string>
+    <string name="bt_open_location">Open Location</string>
+
+    <string name="et_text">This is the text I wanna share</string>
+    <string name="bt_share_text">Share this text</string>
+
+    <string name="et_zoom"></string>
+
+    <string name="btmoreIntents">More Intents</string>
+
+    <string name="et_email">Email</string>
+    <string name="et_subject">Subject</string>
+    <string name="et_body">Body</string>
+    <string name="bt_intent1">Send Email</string>
+
+    <string name="tv_phone">Phone</string>
+    <string name="bt_intent2">Call</string>
+
+
+    <string name="bt_intent3">Open Bluetooth Settings</string>
+
+
+</resources>
